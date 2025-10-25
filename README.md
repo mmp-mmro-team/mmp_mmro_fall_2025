@@ -59,9 +59,9 @@
 | 18 сентября  | Семинар 3 | Функциональные парадигмы машинного обучения. Линейная регрессия. Градиентный спуск. Sklearn. | [Ноутбук](Seminars/Seminar_3_linregr_notebook.ipynb) Конспект (скоро будет) | [Домашнее задание](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Homeworks/Homework2/homework-practice_02-linregr.ipynb) |
 | 25 сентября | Семинар 4 | Векторное дифференцирование | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Seminars/Seminar_4_MatVecDiff.pdf) |  ¯\\\_(ツ)\_/¯ |
 | 2 октября | Семинар 5 | Логистическая регрессия: оценивание вероятностей и вывод функционала, калибровка вероятностей | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Seminars/Seminar_5_log_reg.pdf)  | [Домашнее задание](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Homeworks/Homework3/matvec-diff.pdf) |
-| 9 октября | Семинар 6 | Задача оптимизации. Теорема Каруша-Куна-Таккера. Решение задач. |  | ¯\\\_(ツ)\_/¯ |
-| 16 октября | Семинар 7 | Ядровые обобщения методов, задачи на ядра, аппроксимация ядер | |  ¯\\\_(ツ)\_/¯ |
-| 23 октября | Семинар 8 | Метрики качества классификации, ROC-AUC | | ¯\\\_(ツ)\_/¯ |
+| 9 октября | Семинар 6 | Задача оптимизации. Теорема Каруша-Куна-Таккера. Решение задач. | [Теория](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Seminars/Seminar_6_conditionat_optimization/theory.pdf) [Задачи](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Seminars/Seminar_6_conditionat_optimization/tasks.pdf) [Обучение Lasso регрессии](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Seminars/Seminar_6_conditionat_optimization/lasso_traning.pdf) | ¯\\\_(ツ)\_/¯ |
+| 16 октября | Семинар 7 | Ядровые обобщения методов, задачи на ядра, аппроксимация ядер | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Seminars/Seminar_7_kernel_methods.pdf) |  ¯\\\_(ツ)\_/¯ |
+| 23 октября | Семинар 8 | Метрики качества классификации, ROC-AUC | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Seminars/Seminar_8_bin_classification_metrics.pdf) | [Домашнее задание](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/tree/main/Homeworks/Homework4) |
 | 30 октября | Семинар 9 | Логическая парадигма машинного обучения. Решающее дерево. Вывод критериев информативности для деревьев. Реализация на практике. |  |  ¯\\\_(ツ)\_/¯ |
 | 6 ноября | Семинар 10 | Разложение ошибки на смещение и разброс |  |  ¯\\\_(ツ)\_/¯ |
 | 13 ноября | Семинар 11 | Вывод градиентного бустинга |  |  ¯\\\_(ツ)\_/¯ |
