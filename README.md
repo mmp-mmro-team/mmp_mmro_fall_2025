@@ -65,6 +65,6 @@
 | 30 октября | Семинар 9 | Логическая парадигма машинного обучения. Решающее дерево. Вывод критериев информативности для деревьев. Реализация на практике. | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Seminars/Seminar_9_decision_tree.pdf) |  ¯\\\_(ツ)\_/¯ |
 | 6 ноября | Семинар 10 | Разложение ошибки на смещение и разброс | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Seminars/bias_variance_tradeoff_sem.pdf) |  ¯\\\_(ツ)\_/¯ |
 | 13 ноября | Семинар 11 | Вывод градиентного бустинга | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Seminars/Seminar_11_ensembles.pdf) |  ¯\\\_(ツ)\_/¯ |
-| 20 ноября | Семинар 12 | Почему градиентный бустинг так устроен |  | [Домашнее задание 4]() |
+| 20 ноября | Семинар 12 | Почему градиентный бустинг так устроен |  | [Домашнее задание 4](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Homeworks/Homework5/hw_practice_4.ipynb) |
 | 27 ноября | Семинар 13 | Имплементации градиентного бустинга |  |  ¯\\\_(ツ)\_/¯ |
 | 4 декабря | Семинар 14 | Бонусный семинар | |  ¯\\\_(ツ)\_/¯ |
