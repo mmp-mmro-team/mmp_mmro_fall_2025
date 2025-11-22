@@ -62,9 +62,9 @@
 | 9 октября | Семинар 6 | Задача оптимизации. Теорема Каруша-Куна-Таккера. Решение задач. | [Теория](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Seminars/Seminar_6_conditionat_optimization/theory.pdf) [Задачи](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Seminars/Seminar_6_conditionat_optimization/tasks.pdf) [Обучение Lasso регрессии](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Seminars/Seminar_6_conditionat_optimization/lasso_traning.pdf) | ¯\\\_(ツ)\_/¯ |
 | 16 октября | Семинар 7 | Ядровые обобщения методов, задачи на ядра, аппроксимация ядер | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Seminars/Seminar_7_kernel_methods.pdf) |  ¯\\\_(ツ)\_/¯ |
 | 23 октября | Семинар 8 | Метрики качества классификации, ROC-AUC | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Seminars/Seminar_8_bin_classification_metrics.pdf) | [Домашнее задание](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/tree/main/Homeworks/Homework4) |
-| 30 октября | Семинар 9 | Логическая парадигма машинного обучения. Решающее дерево. Вывод критериев информативности для деревьев. Реализация на практике. |  |  ¯\\\_(ツ)\_/¯ |
-| 6 ноября | Семинар 10 | Разложение ошибки на смещение и разброс |  |  ¯\\\_(ツ)\_/¯ |
-| 13 ноября | Семинар 11 | Вывод градиентного бустинга |  |  ¯\\\_(ツ)\_/¯ |
-| 20 ноября | Семинар 12 | Почему градиентный бустинг так устроен |  |  ¯\\\_(ツ)\_/¯ |
+| 30 октября | Семинар 9 | Логическая парадигма машинного обучения. Решающее дерево. Вывод критериев информативности для деревьев. Реализация на практике. | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Seminars/Seminar_9_decision_tree.pdf) |  ¯\\\_(ツ)\_/¯ |
+| 6 ноября | Семинар 10 | Разложение ошибки на смещение и разброс | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Seminars/bias_variance_tradeoff_sem.pdf) |  ¯\\\_(ツ)\_/¯ |
+| 13 ноября | Семинар 11 | Вывод градиентного бустинга | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_fall_2025/blob/main/Seminars/Seminar_11_ensembles.pdf) |  ¯\\\_(ツ)\_/¯ |
+| 20 ноября | Семинар 12 | Почему градиентный бустинг так устроен |  | [Домашнее задание 4]() |
 | 27 ноября | Семинар 13 | Имплементации градиентного бустинга |  |  ¯\\\_(ツ)\_/¯ |
 | 4 декабря | Семинар 14 | Бонусный семинар | |  ¯\\\_(ツ)\_/¯ |
